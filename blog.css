@@ -1,0 +1,139 @@
+h1 {
+  text-align: center;
+  font-size: 85px;
+  margin-top: 50px;
+  font-family: "marguerite"
+  }
+
+h2 {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 10px;
+  font-family: "Bebas Neue"
+}
+
+h3 {
+  text-align:center;
+  font-size: 24px;
+}
+
+h4 {
+  text-align:center;
+  margin-top: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+h5 {
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+.tags {
+  font-size: 12px;
+  color: #3FAF6C;
+}
+h6 {
+  text-decoration: underline;
+  margin-bottom: 10px;
+  font-family: "Bebas neue";
+
+}
+
+.blogbericht p {
+  margin-bottom: 15px;
+  font-family: Helvetica;
+}
+.zijbalke {
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.header {
+  text-align: center;
+  margin-top: 20px;
+  color: #3FAF6C;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+li {
+  display:inline;
+  text-decoration: none;
+  margin-right: 15px;
+
+}
+
+.zijbalk {
+  height: 700px;
+  width: 300px;
+  float:right;
+  margin-right: 35px;
+  background-color: lightgrey;
+}
+
+
+
+.blogbericht {
+
+  width: 600px;
+  height: 500px;
+  float:left;
+  margin-left: 420px;
+  margin-top: 35px;
+
+}
+
+.zijbalk p {
+  color: dimgrey;
+  width: 15em;
+  text-align: center;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+.zijbalk h3 {
+  color: dimgrey;
+
+}
+.me {
+  border-radius: 50%;
+  margin: 50px;
+  margin-bottom: 10px;
+}
+
+nav {
+  color: dimgrey;
+  text-align: center;
+  margin-top: 15px;
+}
+
+
+.facebook {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.twitter {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 20px;
+  margin-top: 10px;
+
+}
+
+.pinterest {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 200px;
+  margin-top: -70px;
+  margin-bottom: 15px;
+}
